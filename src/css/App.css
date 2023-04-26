@@ -1,0 +1,28 @@
+.header {
+	padding-bottom: 50px;
+	padding-left: 50px;
+}
+
+.main img {
+	width: 200px;
+	height: 150px;
+	object-fit: fill;
+	margin-right: 30px;
+}
+
+.main h1 {
+	margin-left: 190px;
+}
+
+.main-item {
+	width: 700px;
+	height: 150px;
+	display: flex;
+	border-radius: 5px;
+	margin: 0 auto;
+	margin-bottom: 30px;
+}
+
+.main-item:hover {
+	cursor: pointer;
+}
